@@ -1,6 +1,5 @@
 ## COWPOKEVA
-body {background-color: powderblue;}
-<h1 style="center">WE ARE COWPOKE</h1>
+WE ARE COWPOKE
 
 WE PLAY MUSIC
 
