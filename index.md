@@ -10,7 +10,7 @@ COWPOKEVA@GMAIL.COM
 
 
 
-[Link](url) and ![Image](https://drive.google.com/file/d/1boZhCQbxN4aK57nzYb601DPKiXXWBABW/view?usp=sharing)
+[Link](url) and [Image](https://drive.google.com/file/d/1boZhCQbxN4aK57nzYb601DPKiXXWBABW/view?usp=sharing)
 
 
 
