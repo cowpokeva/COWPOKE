@@ -1,6 +1,6 @@
 ## COWPOKEVA
 
-WE ARE COWPOKE
+<style="center">WE ARE COWPOKE</style>
 
 WE PLAY MUSIC
 
