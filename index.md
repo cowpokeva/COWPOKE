@@ -9,7 +9,7 @@ EMAIL FOR BOOKING AT
 COWPOKEVA@GMAIL.COM
 
 
-[Image](<iframe width="1019" height="573" src="https://www.youtube.com/embed/eppiVEbUGgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[Link](<iframe width="1019" height="573" src="https://www.youtube.com/embed/eppiVEbUGgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 
