@@ -1,4 +1,3 @@
-![20210604_004255](https://user-images.githubusercontent.com/85310685/120746925-251e9380-c4ce-11eb-93cb-1d8abfa9b48e.jpg)
 <br>
 ## HELLO PEOPLES!
 <br>
