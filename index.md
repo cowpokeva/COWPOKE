@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-###CONTACT: COWPOKEVA@GMAIL.COM(<-- 6 spaces)
+###CONTACT: COWPOKEVA@GMAIL.COM
 
 
 
