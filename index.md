@@ -1,5 +1,5 @@
 
-<head>
+<head></head>
 <body style = "bacground-color: white" >
 
 Email for booking @ cowpokeva@gmail.com
@@ -15,5 +15,3 @@ Email for booking @ cowpokeva@gmail.com
 [Link](https://www.youtube.com/results?search_query=cowpokeva) and [Image](src)
   
   </body>
-  
-  </>
