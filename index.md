@@ -2,6 +2,9 @@
 
 ## HELLO PEOPLES, WE ARE COWPOKE!
 <br>
+<img class = "kalman" source = ""></img>
+<img class = "curly" source = ""></img>
+<img class = "brian" source = ""></img>
 ## CONTACT US FOR BOOKING INFO AT COWPOKEVA@GMAIL.COM 
 <br>
 <div class="responsive-iframe-container big-container">
