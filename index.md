@@ -3,9 +3,9 @@
 ## HELLO PEOPLES, WE ARE COWPOKE!
 <br>
 
-<img class = "Kalman">![Screenshot_20210527-010924_Drive](https://user-images.githubusercontent.com/85310685/122122062-51a1ac00-cdfa-11eb-864c-96b7457acde4.jpg)</img>
-<img class = "Chris">![Screenshot_20210527-010933_Drive](https://user-images.githubusercontent.com/85310685/122122068-52d2d900-cdfa-11eb-850d-60fbf4c1b94a.jpg)</img>
-<img class = "Brian">![Screenshot_20210527-010935_Drive](https://user-images.githubusercontent.com/85310685/122122072-536b6f80-cdfa-11eb-90ac-7a9139ee3341.jpg)</img>
+<img class = "Kalman">![Screenshot_20210527-010924_Drive](https://user-images.githubusercontent.com/85310685/122122062-51a1ac00-cdfa-11eb-864c-96b7457acde4.jpg)
+<img class = "Chris">![Screenshot_20210527-010933_Drive](https://user-images.githubusercontent.com/85310685/122122068-52d2d900-cdfa-11eb-850d-60fbf4c1b94a.jpg)
+<img class = "Brian">![Screenshot_20210527-010935_Drive](https://user-images.githubusercontent.com/85310685/122122072-536b6f80-cdfa-11eb-90ac-7a9139ee3341.jpg)
 
 ## CONTACT US FOR BOOKING INFO AT COWPOKEVA@GMAIL.COM 
 <br>
