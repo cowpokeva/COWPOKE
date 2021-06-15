@@ -2,9 +2,6 @@
 
 ## HELLO PEOPLES, WE ARE COWPOKE!
 <br>
-<img class = "kalman" source = "https://github.com/cowpokeva/COWPOKE/blob/gh-pages/Photos/Screenshot_20210527-010924_Drive.jpg"></img>
-<img class = "curly" source = ""></img>
-<img class = "brian" source = ""></img>
 ## CONTACT US FOR BOOKING INFO AT COWPOKEVA@GMAIL.COM 
 <br>
 <div class="responsive-iframe-container big-container">
